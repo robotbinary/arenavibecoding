@@ -1,0 +1,6 @@
+name = "arenavibecoding"
+compatibility_date = "2025-01-09"
+pages_build_output_dir = "./dist"
+
+[vars]
+APP_ENV = "production"
